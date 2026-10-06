@@ -1,0 +1,6 @@
+Resolusi Semester 1
+- IPK 4.0
+- Minimal Ikut dulu Lomba CTF tanpa perlu berekspetasi menang.
+- Fokus satu haru satu Walkthroughs TryHackMe.
+- Konsisten satu hari satu solve CTF.
+- Fokus Ngoding di Python dan banyakin Projectnya.
